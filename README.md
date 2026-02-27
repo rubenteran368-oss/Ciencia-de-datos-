@@ -1,14 +1,39 @@
-# Ciencia de los datos
-# Descripción del proyecto
-El dataset contiene información de clientes (edad, trabajo, estado civil, educación, balance de cuenta) y el resultado de campañas de contacto anteriores.
+# 📊 Ciencia de los Datos – Laboratorio 1
 
-En este laboratorio se busca responder:
-- ¿Cuál es el rango de edad más receptivo?
-- ¿Cómo influye el nivel educativo y el estado civil en la decisión?
-- ¿En qué meses del año se obtienen mejores tasas de conversión?
+## 📌 Descripción del Proyecto
 
-## Tecnología usadas
+Este laboratorio presenta un análisis exploratorio de datos sobre campañas de marketing dirigidas a clientes bancarios.
+
+El dataset contiene información demográfica y financiera de los clientes, incluyendo:
+
+- Edad
+- Trabajo
+- Estado civil
+- Nivel educativo
+- Balance de cuenta
+- Información sobre contactos previos
+- Resultado de campañas anteriores
+
+El objetivo principal es identificar patrones y variables que influyen en la decisión del cliente de aceptar una oferta.
+
+---
+
+## 🎯 Objetivos
+
+- Identificar el rango de edad más receptivo.
+- Analizar cómo influye el nivel educativo en la conversión.
+- Evaluar el impacto del estado civil en la decisión final.
+- Determinar los meses con mejores tasas de conversión.
+- Explorar relaciones entre variables demográficas y el resultado de la campaña.
+
+---
+
+## 🛠 Tecnologías Utilizadas
+
 - Python 3.x
-- Pandas: Para la manipulación y limpieza de datos.
-- PyGWalker: Para la exploración visual interactiva.
-- Google Colab: Entorno de desarrollo.
+- Pandas (manipulación y limpieza de datos)
+- PyGWalker (visualización interactiva)
+- Google Colab
+- Jupyter Notebook
+
+---
